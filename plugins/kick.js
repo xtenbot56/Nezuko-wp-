@@ -4,7 +4,7 @@ const isAdmin = global.isAdmin
     config: {
       name: 'kick',
       aliases: ['remove'],
-      permission: 2,
+      permission: 3,
       prefix: true,
       categorie: 'Moderation',
       credit: 'Developed by Mohammad Nayan',
