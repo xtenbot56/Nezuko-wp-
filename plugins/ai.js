@@ -5,7 +5,7 @@ module.exports = {
     name: 'ai',
     aliases: ['chatbot', 'gpt'],
     permission: 0,
-    prefix: 'both',
+    prefix: true,
     description: 'AI chatbot using GPT-3 API.',
     categories: 'AI Chat',
     usages: ['.ai on', '.ai off', '.ai hi'],
