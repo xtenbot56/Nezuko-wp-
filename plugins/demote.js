@@ -2,7 +2,7 @@ module.exports = {
     config: {
       name: 'demote',
       aliases: ['down', 'unadmin'],
-      permission: 2,
+      permission: 3,
       prefix: 'both',
       categorie: 'Moderation',
       credit: 'Developed by Mohammad Nayan',
