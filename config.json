@@ -12,8 +12,8 @@
     "your main number",
     "your grp id"
   ],
-  "helpPic": "",
-  "welPic": "",
+  "helpPic": "https://files.catbox.moe/u41fsm.jpg",
+  "welPic": "https://files.catbox.moe/sy133p.jpg",
   "PORT": "3000",
   "delay": 100,
   "msg": {
