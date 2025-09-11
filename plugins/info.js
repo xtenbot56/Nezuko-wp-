@@ -51,7 +51,7 @@ module.exports = {
 
       await api.sendMessage(
             event.threadId,
-            { image: { url: "" }, caption: infoMessage || '' },
+            { image: { url: "https://files.catbox.moe/xiurbv.jpg" }, caption: infoMessage || '' },
             { quoted: event.message }
           );;
     } catch (error) {
